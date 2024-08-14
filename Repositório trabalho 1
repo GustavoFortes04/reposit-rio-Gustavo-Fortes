@@ -14,3 +14,22 @@
    - Um banco de dados é uma coleção organizada de informações que pode ser facilmente acessada, gerenciada e atualizada. Bancos de dados são fundamentais para armazenar e recuperar informações de forma eficiente.
    - **Fonte**: [Oracle - O que é um Banco de Dados?](https://www.oracle.com/br/database/what-is-database/)
 
+1. **Nuvem (Cloud Computing)**:
+   - Nuvem refere-se ao fornecimento de serviços de computação, como servidores, armazenamento, banco de dados, rede, software e análises, através da internet ("a nuvem"). Esses serviços permitem acesso a recursos tecnológicos escaláveis e flexíveis.
+   - **Fonte**: [Microsoft Azure - O que é computação em nuvem?](https://azure.microsoft.com/pt-br/overview/what-is-cloud-computing/)
+
+2. **Zero-rating**:
+   - Zero-rating é uma prática em que provedores de serviços de internet (ISP) não cobram pelo uso de dados de certos aplicativos ou serviços específicos, permitindo que os usuários acessem esses serviços sem consumir seu plano de dados.
+   - **Fonte**: [Electronic Frontier Foundation (EFF) - What is Zero-Rating?](https://www.eff.org/deeplinks/2017/04/what-zero-rating)
+
+3. **Rede Neural Artificial**:
+   - Redes neurais artificiais são sistemas computacionais inspirados na estrutura do cérebro humano. Elas são compostas de nós (neurônios artificiais) que trabalham juntos para reconhecer padrões, aprender com os dados e tomar decisões.
+   - **Fonte**: [IBM - O que são Redes Neurais?](https://www.ibm.com/cloud/learn/neural-networks)
+
+4. **Sistema de Arquivos (File System)**:
+   - Um sistema de arquivos é um método usado por sistemas operacionais para controlar como os dados são armazenados e recuperados. Ele organiza os arquivos em um disco ou outro meio de armazenamento e gerencia as operações de leitura e gravação.
+   - **Fonte**: [TechTarget - File System (Sistema de Arquivos)](https://www.techtarget.com/searchstorage/definition/file-system)
+
+5. **Sistema Operacional (Operating System)**:
+   - Um sistema operacional é o software fundamental que gerencia o hardware de um computador e fornece serviços básicos para outros softwares. Ele controla dispositivos periféricos, gerencia memória e permite a execução de aplicativos.
+   - **Fonte**: [Red Hat - O que é um Sistema Operacional?](https://www.redhat.com/pt-br/topics/linux/what-is-an-operating-system)
