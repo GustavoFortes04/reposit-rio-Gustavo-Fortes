@@ -1,0 +1,16 @@
+Python
+Sintaxe: Simples e legível, com indentação para blocos de código.
+Paradigmas: Orientado a objetos, procedural e funcional.
+Desempenho: Interpretado, geralmente mais lento, mas fácil de usar e muito produtivo.
+Aplicações: Ciência de dados, web development, automação, scripting.
+Java
+Sintaxe: Mais verbosa e estruturada, usa chaves para blocos de código.
+Paradigmas: Principalmente orientado a objetos, mas também procedural e funcional.
+Desempenho: Compilado para bytecode e executado na JVM, equilibrando desempenho e portabilidade.
+Aplicações: Desenvolvimento corporativo, web, aplicativos Android.
+C++
+Sintaxe: Complexa, com controle explícito sobre memória e uso de ponteiros.
+Paradigmas: Procedural, orientado a objetos e genérico.
+Desempenho: Compilado diretamente para código de máquina, oferecendo alto desempenho.
+Aplicações: Desenvolvimento de sistemas, software de baixo nível, jogos.
+Cada linguagem tem seus pontos fortes e é mais adequada para diferentes tipos de tarefas.
