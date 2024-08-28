@@ -14,3 +14,24 @@ Paradigmas: Procedural, orientado a objetos e genérico.
 Desempenho: Compilado diretamente para código de máquina, oferecendo alto desempenho.
 Aplicações: Desenvolvimento de sistemas, software de baixo nível, jogos.
 Cada linguagem tem seus pontos fortes e é mais adequada para diferentes tipos de tarefas.
+
+codigo phayton
+nome = input("Digite seu nome: ")
+print("Olá, " + nome + "!")
+
+codigo JavaScript
+let nome = prompt("Digite seu nome:");
+alert("Olá, " + nome + "!");
+
+codigo C
+#include <stdio.h>
+
+int main() {
+    char nome[50];
+
+    printf("Digite seu nome: ");
+    scanf("%s", nome);
+
+    printf("Olá, %s!\n", nome);
+
+    return 0;
